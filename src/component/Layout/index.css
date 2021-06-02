@@ -1,0 +1,24 @@
+.header>.nav {
+    float: right;
+}
+
+.title {
+    height: inherit;
+    position: relative;
+    float: left;
+    color: white;
+    font-weight: bold;
+    font-size: 1.3em;
+    left: -10px;
+}
+
+
+.logo {
+    height: inherit;
+    float: left;
+    min-width: 5rem;
+    background-image: url(../../assert/images/shu_logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    filter: invert(1) hue-rotate(.5turn);
+}

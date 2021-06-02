@@ -34,5 +34,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "antd": "^4.16.0",
+    "axios": "^0.21.1",
+    "axios-auth-refresh": "^3.1.0",
+    "mobx": "^6.3.2",
+    "mobx-react": "^7.2.0",
+    "react-router-dom": "^5.2.0"
   }
 }

@@ -1,0 +1,13 @@
+.login {
+    background: url('../../assert/images/login-bg-m.jpg') bottom/cover no-repeat #fff;
+    font-weight: bolder;
+}
+.login label {
+    color: white;
+}
+
+.login-form {
+    padding-top: 20vh;
+    padding-bottom: 30px;
+    background-image: linear-gradient(rgba(78, 140, 255, 0.603) 50%, transparent 100%);
+}
